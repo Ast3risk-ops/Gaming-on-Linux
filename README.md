@@ -29,6 +29,8 @@ cd paru
 makepkg -si
 
 
+# Installing Optimus Manager for Nvida and Intel Laptops
+
 
 paru -Syu optimus-manager
 
@@ -36,7 +38,7 @@ paru -Syu optimus-manager
 paru -Syu optimus-manager-qt
 
 
-# Making Nvida as Default
+# Making Nvida as Default on Optimus Deveices
 
 
 just open the app click it in the taskbar in system tray and make nvida as default and done
