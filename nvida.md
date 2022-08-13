@@ -11,7 +11,7 @@
 sudo pacman -Syu nvida nvidia-utils
 
 
-Reboot after installing Nvidia
+**Reboot after installing Nvidia**
 
 
 # Paru 
@@ -42,7 +42,7 @@ paru -Syu optimus-manager-qt
 
 
 
-Reboot after installing Optimus Manager
+**Reboot after installing Optimus Manager**
 
 
 # Making Nvida as Default on Optimus Deveices
