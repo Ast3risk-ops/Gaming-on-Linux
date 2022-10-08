@@ -11,13 +11,13 @@ Nvida Drivers For Linux
 **Arch Linux**
 
 
-sudo pacman -Syu nvida nvidia-utils lib32-nvidia-utils
+`sudo pacman -Syu nvida nvidia-utils lib32-nvidia-utils`
 
 
 **Ubuntu 20.04 and higher**
 
 
- sudo apt purge nvida* -y && sudo ubuntu-drivers autoinstall 
+` sudo apt purge nvida* -y && sudo ubuntu-drivers autoinstall`
 
 
 **Fedora 36 and higher**
