@@ -42,7 +42,7 @@ sudo dnf install \
 
 **Reboot after installing Nvidia**
 
-**Arch Only**
+# Arch Only
 
 
 # Paru 
