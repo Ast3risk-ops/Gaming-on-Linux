@@ -65,7 +65,7 @@ makepkg -si
 ```
 
 
-# Installing Optimus Manager for Nvida and Intel Laptops
+# Installing Optimus Manager for Nvidia and Intel Laptops
 
 
 `paru -Syu optimus-manager`
@@ -81,4 +81,4 @@ makepkg -si
 # Making Nvida as Default on Optimus Deveices
 
 
-Just open the app, click it in the system tray, mark nvida as default and you're done!
+Just open the app, click it in the system tray, mark nvidia as default and you're done!
