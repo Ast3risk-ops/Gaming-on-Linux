@@ -2,7 +2,7 @@
 - [Nvida](https://github.com/SteavenGamerYT/Gaming-on-Arch-Linux/blob/main/nvida.md)
 
 
--[Amd](https://github.com/SteavenGamerYT/Gaming-on-Arch-Linux/blob/main/amd.md)
+- [Amd](https://github.com/SteavenGamerYT/Gaming-on-Arch-Linux/blob/main/amd.md)
 
 
 # Wine
