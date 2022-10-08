@@ -8,7 +8,7 @@ Amd Drivers For Linux
 # Basic Drivers
 
 **Arch Linux**
-sudo pacman -Syu lib32-mesa mesa vulkan-radeon lib32-vulkan-radeon
+`sudo pacman -Syu lib32-mesa mesa vulkan-radeon lib32-vulkan-radeon`
 
 
 On **Ubuntu 20.04 and higher** Its preinstalled you only need to enable vulkun support

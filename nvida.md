@@ -48,7 +48,8 @@ sudo dnf install \
 # Paru 
 
 
-sudo pacman -Syu git base-devel
+```
+sudo pacman -Syu git base-devel`
 
 
 sudo pacman -S --needed base-devel
@@ -61,15 +62,16 @@ cd paru
 
 
 makepkg -si
+```
 
 
 # Installing Optimus Manager for Nvida and Intel Laptops
 
 
-paru -Syu optimus-manager
+`paru -Syu optimus-manager`
 
 
-paru -Syu optimus-manager-qt
+`paru -Syu optimus-manager-qt`
 
 
 
