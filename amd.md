@@ -25,10 +25,11 @@ options amdgpu cik_support=1
 ```
 
 
-**Reboot after installing Optimus Manager**
+in `/etc/modprobe.d/radeon.conf` add
+```
+options radeon si_support=0
+options radeon cik_support=0
+blacklist radeon
+```
 
-
-# Making Nvida as Default on Optimus Deveices
-
-
-just open the app click it in the taskbar in system tray and make nvida as default and done
+**Reboot after switching Readon to amdgpu**
