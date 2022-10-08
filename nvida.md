@@ -45,7 +45,7 @@ sudo dnf install \
 # Arch Only
 
 
-# Paru 
+# Installing Paru 
 
 
 ```
@@ -81,4 +81,4 @@ makepkg -si
 # Making Nvida as Default on Optimus Deveices
 
 
-just open the app click it in the taskbar in system tray and make nvida as default and done
+Just open the app, click it in the system tray, mark nvida as default and you're done!
