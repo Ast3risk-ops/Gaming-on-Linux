@@ -1,5 +1,5 @@
 # Drivers
-- [Nvida](https://github.com/SteavenGamerYT/Gaming-on-Arch-Linux/blob/main/nvida.md)
+- [Nvida](https://github.com/SteavenGamerYT/Gaming-on-Arch-Linux/blob/main/nvidia.md)
 
 
 - [Amd](https://github.com/SteavenGamerYT/Gaming-on-Arch-Linux/blob/main/amd.md)
