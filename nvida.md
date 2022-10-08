@@ -1,5 +1,5 @@
-# Nvida on Arch LInux
- Nvida on Arch Linux
+# Nvida Drivers For Linux
+Nvida Drivers For Linux
 
 
 # Installtion
@@ -8,10 +8,41 @@
 # Basic Drivers
 
 
+**Arch Linux**
+
+
 sudo pacman -Syu nvida nvidia-utils
 
 
+**Ubuntu 20.04 and higher**
+
+
+ sudo apt purge nvida* -y && sudo ubuntu-drivers autoinstall 
+
+
+**Fedora 36 and higher**
+
+
+**Enable RPM Fusion repositories**
+
+
+```
+sudo dnf install \
+  https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+
+
+  sudo dnf install \
+  https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+
+
+  sudo dnf group update core
+  ```
+**sudo dnf install akmod-nvidia xorg-x11-drv-nvidia-cuda**
+
+
 **Reboot after installing Nvidia**
+
+**Arch Only**
 
 
 # Paru 
